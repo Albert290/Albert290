@@ -29,7 +29,7 @@ I'm a **Web Designer and Developer** passionate about using creativity to build 
 
 ---
 
-## 🌈 Fun Facts & Inspirations
+## 🎈🏁 Fun Facts & Inspirations
 
 - I'm also skilled in **content creation** and have a knack for **comedy**! 🎭
 - My favorite quote: *"There is no right or wrong. Life is about reacting."*
