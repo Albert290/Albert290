@@ -1,53 +1,173 @@
-# Hi there! 👋 I'm Albert Kung'u
+Hi there! 👋 I'm Albert Kung'u
+I'm a Software Developer passionate about building scalable, interactive, and impactful projects. I love solving complex problems and constantly learning new technologies to stay ahead in the ever-evolving tech world.
 
-I'm a **Web Designer and Developer** passionate about using creativity to build **user-interactive and visually stunning projects**. I enjoy tackling new problems and crafting complex websites that make an impact.
+🚀 What I'm Working On
+Tutor Hub
+🚀 A web-based platform designed to connect students with verified tutors within a school environment.
 
----
+Students can search for tutors based on subjects and ratings.
 
-## 🚀 Skills and Tools
+Tutors submit credentials for admin approval before offering services.
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange) ![CSS3](https://img.shields.io/badge/Code-CSS3-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![Python](https://img.shields.io/badge/Code-Python-blue)  
-![Web Design](https://img.shields.io/badge/Skill-Web%20Design-purple) ![Content Creation](https://img.shields.io/badge/Skill-Content%20Creation-green) ![Comedy](https://img.shields.io/badge/Hobby-Comedy-lightgrey)
+Future plans include payment integration for premium tutoring services.
 
----
+🛠 Tech Stack
 
-## 🌟 Featured Projects
 
-### **Shekina Restaurant**
-- A well-designed restaurant website and my very first project!
-- [View Repository](https://github.com/Albert290/Mpesa-Api-Shekinainnltd.git)
 
-### **Lillian Tours (Ongoing)**
-- Building a tours website to showcase beautiful travel destinations.
-- [View Repository](https://github.com/Albert290/Lillian-Tours.git)
 
----
+🌟 Other Featured Projects
+Shekina Restaurant
+🍽️ A modern, well-designed restaurant website.
 
-## 📫 Let's Connect
+Repository: Shekina Restaurant
 
-- **Email**: [albertkungu290@gmail.com](mailto:albertkungu290@gmail.com)
+Lillian Tours (Ongoing)
+🌍 A travel website showcasing beautiful destinations.
 
----
+Repository: Lillian Tours
 
-## 🎈🏁 Fun Facts & Inspirations
+🤖 AI Enthusiast
+I'm deeply fascinated by Artificial Intelligence and actively follow advancements in machine learning, automation, and AI-driven applications. The future is AI, and I'm all in! 🚀
 
-- I'm also skilled in **content creation** and have a knack for **comedy**! 🎭
-- My favorite quote: *"There is no right or wrong. Life is about reacting."*
+📫 Let's Connect
+📧 Email: albertkungu290@gmail.com
 
----
+📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert290&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert290&layout=compact&theme=radical)
 
----
+🏆 Fun Facts & Inspirations
+I enjoy content creation and have a knack for comedy! 🎭
 
-## 🧑‍💻 Visitors
+Favorite Quote: "There is no right or wrong. Life is about reacting."
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Albert290.Albert290)
+✨ Thanks for Visiting!
+Feel free to explore my repositories and connect for exciting collaborations! 😊
 
----
+This version is cleaner, more professional, and aligned with your current focus on Tutor Hub, AI, and Kotlin while keeping your personality intact. 🚀
 
-## ✨ Thank You for Visiting!
-Feel free to explore my repositories and connect with me for exciting collaborations or just a friendly chat! 😊
+
+
+
+
+
+
+You said:
+for the languages, include kotlin javascript, sql and php and for the quote include one by bill gates
+ChatGPT said:
+Here's the refined version of your README with the requested updates:
+
+Hi there! 👋 I'm Albert Kung'u
+I'm a Software Developer passionate about building scalable, interactive, and impactful projects. I love solving complex problems and constantly learning new technologies to stay ahead in the ever-evolving tech world.
+
+🚀 What I'm Working On
+Tutor Hub
+📚 A web-based platform designed to connect students with verified tutors within a school environment.
+
+Students can search for tutors based on subjects and ratings.
+
+Tutors submit credentials for admin approval before offering services.
+
+Future plans include payment integration for premium tutoring services.
+
+🛠 Tech Stack
+
+
+
+
+🌟 Other Featured Projects
+Shekina Restaurant
+🍽️ A modern, well-designed restaurant website.
+
+Repository: Shekina Restaurant
+
+Lillian Tours (Ongoing)
+🌍 A travel website showcasing beautiful destinations.
+
+Repository: Lillian Tours
+
+🤖 AI Enthusiast
+I'm deeply fascinated by Artificial Intelligence and actively follow advancements in machine learning, automation, and AI-driven applications. The future is AI, and I'm all in! 🚀
+
+📫 Let's Connect
+📧 Email: albertkungu290@gmail.com
+
+📊 GitHub Stats
+
+
+
+🏆 Fun Facts & Inspirations
+I enjoy content creation and have a knack for comedy! 🎭
+
+Favorite Quote: "Your most unhappy customers are your greatest source of learning." – Bill Gates
+
+✨ Thanks for Visiting!
+Feel free to explore my repositories and connect for exciting collaborations! 😊
+
+This version keeps it clean, professional, and focused on your skills while including your enthusiasm for AI and Kotlin along with the Bill Gates quote. 🚀
+
+
+
+
+
+
+
+You said:
+why are you not including kotlin, sql and php
+
+
+ChatGPT said:
+You're right! I missed properly emphasizing all the languages. Here’s the updated README with Kotlin, SQL, PHP, and JavaScript clearly included in the tech stack.
+
+Hi there! 👋 I'm Albert Kung'u
+I'm a Software Developer passionate about building scalable, interactive, and impactful projects. I love solving complex problems and constantly learning new technologies to stay ahead in the ever-evolving tech world.
+
+🚀 What I'm Working On
+Tutor Hub
+📚 A web-based platform designed to connect students with verified tutors within a school environment.
+
+Students can search for tutors based on subjects and ratings.
+
+Tutors submit credentials for admin approval before offering services.
+
+Future plans include payment integration for premium tutoring services.
+ 
+ 
+Technologies & Tools:
+Backend Development (PHP, SQL)
+
+Frontend Development (JavaScript)
+
+Mobile Development (Learning Kotlin)
+
+AI & Automation Enthusiast
+
+🌟 Other Featured Projects
+Shekina Restaurant
+🍽️ A modern, well-designed restaurant website.
+
+Repository: Shekina Restaurant
+
+Lillian Tours (Ongoing)
+🌍 A travel website showcasing beautiful destinations.
+
+Repository: Lillian Tours
+
+🤖 AI Enthusiast
+I'm deeply fascinated by Artificial Intelligence and actively follow advancements in machine learning, automation, and AI-driven applications. The future is AI, and I'm all in! 🚀
+
+📫 Let's Connect
+📧 Email: albertkungu290@gmail.com
+
+📊 GitHub Stats
+
+
+
+🏆 Fun Facts & Inspirations
+I enjoy content creation and have a knack for comedy! 🎭
+
+Favorite Quote: "Your most unhappy customers are your greatest source of learning." – Bill Gates
+
+✨ Thanks for Visiting!
+Feel free to explore my repositories and connect for exciting collaborations! 😊
