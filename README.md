@@ -14,15 +14,14 @@ I'm a **Software Developer** passionate about building **scalable, interactive, 
 
 ---
 
-## 🌟 **Other Featured Projects**  
+## 🏆 **Achievements**  
 
-### **Shekina Restaurant**  
-🍽️ A modern, well-designed restaurant website.  
-- **Repository:** [Shekina Restaurant](https://github.com/Albert290/Mpesa-Api-Shekinainnltd.git)  
-
-### **Lillian Tours (Ongoing)**  
-🌍 A travel website showcasing beautiful destinations.  
-- **Repository:** [Lillian Tours](https://github.com/Albert290/Lillian-Tours.git)  
+- **Actively Learning & Exploring AI** – Enthusiastic about artificial intelligence and its future impact. 
+- **Founder & CEO of Techven** – A company that builds software and websites.    
+- **Social Media Manager & Tech Consultant** – Helping businesses establish and grow their digital presence.  
+- **Developed Shekina Restaurant Website** – Successfully built a modern restaurant website with integrated MPesa payments.  
+- **Built Lillian Tours Website (Ongoing)** – Creating a travel website to showcase beautiful destinations.  
+ 
 
 ---
 
@@ -40,7 +39,7 @@ I'm deeply fascinated by **Artificial Intelligence** and actively follow advance
 
 ## 📊 **GitHub Stats**  
 
-![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert290&show_icons=true&theme=radical) 
+![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert290&show_icons=true&theme=radical)    
 
 ---
 
