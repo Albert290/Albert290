@@ -40,8 +40,7 @@ I'm deeply fascinated by **Artificial Intelligence** and actively follow advance
 
 ## 📊 **GitHub Stats**  
 
-![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert290&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert290&layout=compact&theme=radical)  
+![Albert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert290&show_icons=true&theme=radical) 
 
 ---
 
