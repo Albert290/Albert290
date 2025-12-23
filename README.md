@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- LEGO-style animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&lines=ALBERT+KUNG'U" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Albert+Kung'u;Software+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Tech+Innovator+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
 ### 🚀 Software Developer | 🤖 AI Enthusiast | 💡 Tech Innovator
 
@@ -102,7 +104,6 @@ class CurrentProjects:
 
 ### 🐍 **Watch the Snake Eat My Contributions!**
 ![snake gif](https://github.com/Albert290/Albert290/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
