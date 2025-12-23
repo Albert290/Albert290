@@ -102,9 +102,7 @@ class CurrentProjects:
 ### 💭 **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 **Watch the Snake Eat My Contributions!**
-![snake gif](https://github.com/Albert290/Albert290/blob/output/github-contribution-grid-snake.svg)
----
+ 
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
