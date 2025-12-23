@@ -2,7 +2,7 @@
 
 <!-- LEGO-style animated header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Albert+Kung'u;Software+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Tech+Innovator+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Albert+Kung'u;Software+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;AI+Enthuthiast+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 ### 🚀 Software Developer | 🤖 AI Enthusiast | 💡 Tech Innovator
