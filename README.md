@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LEGO-style animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🧱+ALBERT+KUNG'U+🧱" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=800&lines=ALBERT+KUNG'U" alt="Typing SVG" />
 
 ### 🚀 Software Developer | 🤖 AI Enthusiast | 💡 Tech Innovator
 
@@ -107,6 +107,7 @@ class CurrentProjects:
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### 📈 **Activity Graph**
+[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albert290&theme=tokyo-night)](https://github.com/Albert290)
 
 </div>
