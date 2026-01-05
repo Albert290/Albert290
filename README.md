@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Albert+Kung'u;Software+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;AI+Enthuthiast+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
-### 🚀 Software Developer | 🤖 AI Enthusiast | 💡 Tech Innovator
+###  | AI Enthusiast | Innovator
 
 <img src="https://komarev.com/ghpvc/?username=Albert290&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -13,10 +13,10 @@
 
 ---
 
-## 👨‍💻 **About Me**
+## **About Me**
 ```javascript
 const albert = {
-    location: "Nairobi, Kenya 🇰🇪",
+    location: "Nairobi, Kenya",
     university: "Tharaka University",
     company: "Founder & CEO @ Techven",
     currentFocus: ["AI & Machine Learning", "Full-Stack Development", "Building Scalable Solutions"],
@@ -26,7 +26,7 @@ const albert = {
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 <div align="center">
 
@@ -63,7 +63,7 @@ const albert = {
 
 ---
 
-## 🏆 **GitHub Trophies**
+## **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albert290&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
@@ -71,7 +71,7 @@ const albert = {
 
 ---
 
-## 🔥 **Current Focus**
+## **Current Focus**
 ```python
 class CurrentProjects:
     def __init__(self):
@@ -85,7 +85,7 @@ class CurrentProjects:
 
 ---
 
-## 🤝 **Let's Connect!**
+## **Let's Connect!**
 
 <div align="center">
 
@@ -104,7 +104,7 @@ class CurrentProjects:
 
  
 
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+**Thanks for stopping by! Let's build something amazing together! **
 
 ### 📈 **Activity Graph**
 [![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albert290&theme=tokyo-night)](https://github.com/Albert290)
